@@ -1,5 +1,5 @@
 
-### Hi there 👋, My name is Shedrack
+### Hi There 👋, My Name is Shedrack
 
 I am a Software Engineer based in Lagos, Nigeria. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. I have gotten alot of numerous certifications including an #100Dev certification. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
 
