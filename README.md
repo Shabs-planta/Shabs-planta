@@ -1,5 +1,5 @@
 
-![](https://i.imgur.com/CX85Fup.jpg)
+![](https://i.imgur.com/moZDKmL.jpg)
 
 ### Hi There 👋, My Name is Shedrack
 
