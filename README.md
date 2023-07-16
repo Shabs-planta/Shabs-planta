@@ -1,15 +1,15 @@
 
 ![](https://i.imgur.com/moZDKmL.jpg)
 
-### Hi There 👋, My Name is Shedrack
+
 
 I am a Software Engineer based in Lagos, Nigeria. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. I have gotten alot of numerous certifications including an #100Dev certification. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
 
 
-## My Skill Set  
+<h1 align="center">My Skill Set</h1> 
 <table><tr><td valign="top" width="33%">
  
-### Frontend  
+<h2 align="center">Frontend</h2>  
  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -25,7 +25,7 @@ I am a Software Engineer based in Lagos, Nigeria. I am proficient in both Fronte
 </div>
 </td><td valign="top" width="33%">
  
-### Backend  
+<h2 align="center">Backend</h2>  
  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -37,7 +37,7 @@ I am a Software Engineer based in Lagos, Nigeria. I am proficient in both Fronte
 </div>
 </td><td valign="top" width="33%">
  
-### DevOps  
+<h2 align="center">DevOps</h2>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
@@ -51,7 +51,7 @@ I am a Software Engineer based in Lagos, Nigeria. I am proficient in both Fronte
 <br/>
 
 
-## Connect with me  
+ <h1 align="center">Connect with me</h1>  
 
 <div align="center">
 <a href="https://twitter.com/BarristerShabs" target="_blank">
