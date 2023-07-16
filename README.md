@@ -1,7 +1,8 @@
 
 ![](https://i.imgur.com/moZDKmL.jpg)
 
-<div align="center">
+<p>
+ <div align="center">
 <a href="https://twitter.com/BarristerShabs" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter />
 </a>
@@ -12,6 +13,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
 </a>  
 </div>
+</p>
 
 
 I am a Software Engineer based in Lagos, Nigeria. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. I have gotten alot of numerous certifications including an #100Dev certification. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
