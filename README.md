@@ -20,6 +20,7 @@ I am a Software Engineer based in Lagos, Nigeria. I am proficient in both Fronte
 
 
 <div></div>
+<div></div>
 
 <h1 align="center">Skill Set</h1> 
 <table><tr><td valign="top" width="33%">
